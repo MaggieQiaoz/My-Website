@@ -61,17 +61,17 @@ nav ul li a {
 }
 
 .projects h3 {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 100;
     margin-top: 24px;
     margin-bottom: 15px;
     color: #333333;
 }
 
-.projects h3 {
-    font-size: 25px;
+.projects p {
+    font-size: 20px;
     margin-top: 24px;
-    margin-bottom: 15px;
+    margin-bottom: 24px;
     color: #333333;
 }
 
@@ -88,4 +88,9 @@ nav ul li a {
     left: 0;
     width: 80%;
     height: 80%;
+}
+
+.vaneat {
+    width: 80%;
+    height: auto;
 }
